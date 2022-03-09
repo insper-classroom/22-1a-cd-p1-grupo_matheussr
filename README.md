@@ -3,5 +3,5 @@
 Template para o projeto 1 de CDados
 
 Edite este arquivo com informações úteis do projeto:
-- Adicione o nome dos membros do grupo
+- Matheus Silva Rodrigues
 - Link para arquivos úteis (notebooks, dados)
